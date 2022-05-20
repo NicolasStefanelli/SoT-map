@@ -6,3 +6,6 @@ Each square is 600 m^2. [Source](https://www.reddit.com/r/Seaofthieves/comments/
 Each square is 24.495 meters wide/long
 Each sqaure is 34.64 meters diagonal
 A successful path is one that starts and ends at an outpost, does not have to be the same outpost
+
+## The Structure of the map.txt file
+coming soon...
