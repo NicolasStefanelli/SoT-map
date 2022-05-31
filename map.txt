@@ -1,0 +1,12 @@
+May 31,2022
+F,3,Smuggler's Bay,island
+K,16,Snake Island,island
+B,7,Spoils of Plenty Store,tradepost
+L,15,Stephen's Spoils,tradepost
+P,7,Sunken Grove,island
+B,9,Cresent Isle,island
+B,11,Imperial Crown Fortress,Fortress
+B,13,Mermaid's Hideaway,island
+C,4,Sailor's Bounty,island
+C,6,Keel Haul Fort,Fort
+C,11,Sea Dog's Rest, island

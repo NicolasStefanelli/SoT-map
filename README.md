@@ -8,4 +8,8 @@ Each sqaure is 34.64 meters diagonal
 A successful path is one that starts and ends at an outpost, does not have to be the same outpost
 
 ## The Structure of the map.txt file
-coming soon...
+col,row,name,type,
+
+TODO:
+finish chart_course function
+add island dict where key = island name and val = location??
